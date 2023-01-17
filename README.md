@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - AWS Amplify
 - Styled Components
 - Express
+- MongoDb
 - [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)
 
 ## 💻 Projeto
